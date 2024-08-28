@@ -3,26 +3,26 @@ package uml;
 import java.util.Scanner;
 
 public class iPod {
-    private static void playing(){
+    public static void playing(){
         System.out.println("Tocando a faixa");
     }
 
-    private static void pause(){
+    public static void pause(){
         System.out.println("Faixa em pausa");
     }
 
-    private static void nextSong(){
+    public static void nextSong(){
         System.out.println("Tocando a próxima faixa");
     }
 
-    private static void previousSong(){
+    public static void previousSong(){
         System.out.println("Tocando a faixa anterior");
     }
 
-    private static void volumeUp(){
+    public static void volumeUp(){
         System.out.println("Aumentando volume");
     }
-    private static void volumeDown(){
+    public static void volumeDown(){
         System.out.println("Diminuindo o volume");
     }
 
