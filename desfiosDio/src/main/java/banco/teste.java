@@ -1,3 +1,5 @@
+package banco;
+
 import java.util.Random;
 
 public class teste {

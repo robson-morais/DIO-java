@@ -1,5 +1,6 @@
+package banco;
+
 import java.util.Scanner;
-import java.util.Random;
 
 public class contaBanco {
     public static void main(String[] args) throws Exception {
