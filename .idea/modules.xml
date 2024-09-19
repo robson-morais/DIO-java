@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DIO-java.iml" filepath="$PROJECT_DIR$/DIO-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/desfiosDio/src/main/java/desafio-banco/desafio-banco.iml" filepath="$PROJECT_DIR$/Java/desfiosDio/src/main/java/desafio-banco/desafio-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/src/main/java/desfiosDio/src/main/java/desafio-banco/desafio-banco.iml" filepath="$PROJECT_DIR$/Java/src/main/java/desfiosDio/src/main/java/desafio-banco/desafio-banco.iml" />
     </modules>
   </component>
 </project>
