@@ -1,4 +1,4 @@
-package collections;
+package desfiosDio.src.main.java.collections.tarefas;
 
 public class Tarefa {
     private String descricao;

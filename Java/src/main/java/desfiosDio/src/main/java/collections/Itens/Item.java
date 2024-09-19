@@ -1,4 +1,4 @@
-package collections;
+package desfiosDio.src.main.java.collections.Itens;
 
 public class Item {
     private String nome;
