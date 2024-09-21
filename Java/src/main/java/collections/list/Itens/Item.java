@@ -1,4 +1,4 @@
-package desfios.Itens;
+package collections.list.Itens;
 
 public class Item {
     private String nome;

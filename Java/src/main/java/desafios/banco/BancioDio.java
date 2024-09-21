@@ -1,4 +1,4 @@
-package desfios.banco;
+package desafios.banco;
 
 import java.util.List;
 

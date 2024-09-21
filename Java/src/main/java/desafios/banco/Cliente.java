@@ -1,4 +1,4 @@
-package desfios.banco;
+package desafios.banco;
 
 public class Cliente {
     protected String nome;
