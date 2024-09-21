@@ -1,4 +1,4 @@
-package desfiosDio.Itens;
+package desfios.Itens;
 
 public class Item {
     private String nome;

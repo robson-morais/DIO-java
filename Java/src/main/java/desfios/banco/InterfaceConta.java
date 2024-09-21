@@ -1,4 +1,4 @@
-package desfiosDio.banco;
+package desfios.banco;
 
 public interface InterfaceConta {
 

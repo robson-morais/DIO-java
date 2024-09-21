@@ -1,4 +1,4 @@
-package desfiosDio.banco;
+package desfios.banco;
 
 public class Cliente {
     protected String nome;

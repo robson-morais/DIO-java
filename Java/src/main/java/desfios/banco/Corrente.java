@@ -1,4 +1,4 @@
-package desfiosDio.banco;
+package desfios.banco;
 import javax.swing.JOptionPane;
 
 public class Corrente extends Contaa {
