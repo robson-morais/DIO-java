@@ -1,4 +1,4 @@
-package desfiosDio.src.main.java.collections.Itens;
+package desfiosDio.Itens;
 
 import java.util.ArrayList;
 

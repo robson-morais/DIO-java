@@ -1,4 +1,4 @@
-package desfiosDio.src.main.java.collections.livros;
+package desfiosDio.livros;
 
 import java.util.ArrayList;
 import java.util.List;

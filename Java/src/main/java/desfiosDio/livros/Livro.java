@@ -1,4 +1,4 @@
-package desfiosDio.src.main.java.collections.livros;
+package desfiosDio.livros;
 
 
 // título, autor e ano de publicação

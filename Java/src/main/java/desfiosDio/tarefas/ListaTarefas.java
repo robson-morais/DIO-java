@@ -1,4 +1,4 @@
-package desfiosDio.src.main.java.collections.tarefas;
+package desfiosDio.tarefas;
 
 import java.util.ArrayList;
 
