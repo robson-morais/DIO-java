@@ -1,5 +1,6 @@
 package testes;
 
+import javax.management.ObjectInstance;
 import java.util.Scanner;
 
 public class simulacaoBancaria {
@@ -17,6 +18,7 @@ public class simulacaoBancaria {
             System.out.println("3. Consultar saldo");
             System.out.println("0. Encerrar");
             int opcao = Integer.parseInt(scanner.nextLine());
+
 
             switch (opcao) {
                 case 1:

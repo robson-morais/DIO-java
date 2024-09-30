@@ -2,6 +2,7 @@ package collections.set.ordenacao.produtos;
 
 public class Teste {
     public static void main(String[] args) {
+
         Compras minhasCompras = new Compras();
 
         // Adicionando 5 produtos diferentes
