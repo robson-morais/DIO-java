@@ -8,6 +8,14 @@ public class Curso extends Conteudo{
         return XP_PADRAO * cargaHoraria;
     }
 
+    public int getCargaHoraria() {
+        return cargaHoraria;
+    }
+
+    public void setCargaHoraria(int cargaHoraria) {
+        this.cargaHoraria = cargaHoraria;
+    }
+
     @Override
     public String toString() {
         return "\n"+"Curso{" +super.getNome()+", Descrição = "+super.getDescricao()+
